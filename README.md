@@ -1,8 +1,7 @@
 # Project_Task
 creating a project
 
-#Praveena Ravipudi
+# Praveena Ravipudi
+## Y19CS150
+### ravipudipraveena@gmail.com
 
-##Y19CS150
-
-###ravipudipraveena@gmail.com
